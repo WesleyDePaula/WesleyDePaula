@@ -1,4 +1,4 @@
-### Salve salve, eu me chamo Wesley e bem-vindo ao meu perfil 😀
+## Salve salve, eu me chamo Wesley e bem-vindo ao meu perfil 😀
 
 <div align="center">
   <a href = "https://github.com/WesleyDePaula">
