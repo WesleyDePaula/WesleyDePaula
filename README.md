@@ -5,7 +5,7 @@
 
 <p align="left">🎶 Também produzo algumas múscias/beats, meu canal no <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
 
-<br><br><br><br><br><br>
+<br><br>
 
 <div align="left">
   <div align="center">
