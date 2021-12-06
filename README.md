@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <div align="center">
     <a href = "https://github.com/WesleyDePaula">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WesleyDePaula&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
