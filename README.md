@@ -5,13 +5,13 @@
 
 <p align="left">🎶 Também produzo algumas múscias/beats, meu canal no <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
 
-<br><br>
+<br>
 
 <div align="left">
   <div align="center">
     <a href = "https://github.com/WesleyDePaula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyDePaula&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDePaula&layout=compact&langs_count=7&theme=jolly"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WesleyDePaula&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDePaula&layout=compact&langs_count=7&theme=jolly"/>
   </div>
 </div>
 
