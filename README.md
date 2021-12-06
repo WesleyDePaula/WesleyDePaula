@@ -4,7 +4,7 @@
 <img align="left" src="./itachipng.png" width="130px" height="130px"/>
   <br>
 <p align="left">Opa, meu nome é Wesley, sou de Santa Catarina, Brasil e tenho 17 anos. possuo conhecimentos em backend e frontend, mas por enquanto o meu forte seria o back. Sou desenvolvedor <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/> e faço estágio na <a href="https://www.senior.com.br">Senior Sistemas</a>. <br>
-<p align="left">🎶 Também produzo algumas múscias/beats, meu canal no <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
+<p align="left">🎶 Também produzo algumas músicas/beats no meu canal do <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
 </div>
 
 ##
