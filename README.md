@@ -1,19 +1,17 @@
 ## Salve salve, seja bem-vindo(a) ao meu perfil!! 😀
 
 <div>
-<img align="left" src="./itachipng.png" width="150px" height="150px"/>
+<img align="left" src="./itachipng.png" width="130px" height="130px"/>
 <p align="left">Opa, meu nome é Wesley, sou de Santa Catarina, Brasil e tenho 17 anos. possuo conhecimentos em backend e frontend, mas por enquanto o meu forte seria o back. Sou desenvolvedor <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/> e faço estágio na <a href="https://www.senior.com.br">Senior Sistemas</a>. <br>
 <p align="left">🎶 Também produzo algumas múscias/beats, meu canal no <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
 </div>
 
 ##
 
-<div align="left">
+<div align="center">
   <a href = "https://github.com/WesleyDePaula">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WesleyDePaula&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-<div align="center">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyDePaula&layout=compact&langs_count=7&theme=jolly"/>
-</div>
 </div>
 
   ##
