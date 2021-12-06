@@ -6,9 +6,9 @@
 <p align="left">🎶 Também produzo algumas múscias/beats, meu canal no <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
-<div align="center">
+<div align="right">
   <div align="center">
     <a href = "https://github.com/WesleyDePaula">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WesleyDePaula&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
