@@ -25,6 +25,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=dd58c1">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=dd58c1">
   <img align="center" alt="MySql" height="30" width="40" src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=dd58c1">
+  <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=dd58c1" />
   <img align="right" alt="Chika" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
 </div>
 
@@ -33,9 +34,8 @@
 ### 💻 **_Pretendo estudar_** 💻  
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=dd58c1" />
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=dd58c1" />
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=dd58c1" />
+  <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=dd58c1" />
+  <img align="center" alt="C-Sharp" height="30" width="40" src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=dd58c1" />
  
 </div>
   
