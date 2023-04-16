@@ -1,11 +1,9 @@
 ## Salve salve, seja bem-vindo(a) ao meu perfil!! 😀
 
 <div>
-<img align="left" src="./itachipng.png" width="130px" height="130px"/>
-  <br>
 <p align="left">Opa, meu nome é Wesley, sou de Santa Catarina, Brasil e tenho 18 anos. possuo conhecimentos em backend e frontend, porém meu forte seria o back. Atualmente sou desenvolvedor júnior <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/> na <a href="https://www.senior.com.br">Senior Sistemas</a>. <br>
 <p align="left">🎶 Também produzo algumas músicas/beats no meu canal do <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
-<p align="left">Graduando em ciência da computação, pela <strong>Universidade Regional de Blumenau - FURB<strong>
+<p align="left">🎓 Graduando em ciência da computação, pela <strong>Universidade Regional de Blumenau - FURB<strong>
 </div>
 
 ##
@@ -28,16 +26,6 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=dd58c1">
   <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=dd58c1" />
   <img align="right" alt="Chika" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
-</div>
-
-##
-  
-### 💻 **_Pretendo estudar_** 💻  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=dd58c1" />
-  <img align="center" alt="C-Sharp" height="30" width="40" src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=dd58c1" />
- 
 </div>
   
 ##
