@@ -1,7 +1,7 @@
 ## Salve salve, seja bem-vindo(a) ao meu perfil!! 😀
 
 <div>
-<p align="left">Opa, meu nome é Wesley, sou de Santa Catarina, Brasil e tenho 19 anos. possuo conhecimentos em backend e frontend, porém meu forte seria o back. Atualmente ocupo o cargo de Software Developer II <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/> na <a href="https://www.senior.com.br">Senior Sistemas</a>. <br>
+<p align="left">Opa, meu nome é Wesley, sou de Santa Catarina, Brasil e tenho 20 anos. possuo conhecimentos em backend e frontend, porém meu forte seria o back. Atualmente ocupo o cargo de Software Developer II <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/> na <a href="https://www.senior.com.br">Senior Sistemas</a>. <br>
 <p align="left">🎶 Também produzo algumas músicas/beats no meu canal do <a href="https://www.youtube.com/channel/UCw_RzqQhLn2URzYMmJ0YagQ" target="_blank">YouTube</a></p>
 <p align="left">🎓 Graduando em ciência da computação, pela <strong>Universidade Regional de Blumenau - FURB<strong>
 </div>
